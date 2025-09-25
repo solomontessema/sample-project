@@ -1,2 +1,6 @@
+Would you like me to generate a full starter script for LangChain or LangGraph agents, including environment setup, package install, and a sample agent scaffold? I can tailor it to your teaching or business automation flow.
+
+
+
 This isolates dependencies (e.g., LangChain, LangGraph, etc.) from your system Python
 This allows the environment to function normally without touching global packages

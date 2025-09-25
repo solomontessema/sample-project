@@ -1,0 +1,5 @@
+This syntax tries to run a file named venv.py in your current directory or Python path.
+
+But venv is a standard library module, not a standalone script.
+
+So unless you happen to have a file named venv.py, this will fail with:
