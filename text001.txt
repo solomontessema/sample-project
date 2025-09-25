@@ -1,0 +1,2 @@
+This isolates dependencies (e.g., LangChain, LangGraph, etc.) from your system Python
+This allows the environment to function normally without touching global packages
